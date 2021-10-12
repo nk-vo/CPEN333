@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{8F8CF197-5A63-41FB-8D41-7C91F3E422C9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CarSimulator/Highway.cs">
+    <Files>
+      <File FileName="CarSimulator/Physics1D.cs" Line="22" Column="1" />
+      <File FileName="CarSimulator/Program.cs" Line="40" Column="13" />
+      <File FileName="CarSimulator/State.cs" Line="8" Column="36" />
+      <File FileName="CarSimulator/Car.cs" Line="97" Column="29" />
+      <File FileName="CarSimulator/DragRace.cs" Line="25" Column="14" />
+      <File FileName="CarSimulator/Highway.cs" Line="9" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CarSimulator" expanded="True">
+            <Node name="CarSimulator" expanded="True">
+              <Node name="Highway.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CarSimulator PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
