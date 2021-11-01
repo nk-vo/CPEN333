@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{96297BEE-9FA7-447D-82A0-05F2391BE56A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelperFunctions.cs">
+    <Files>
+      <File FileName="Program.cs" Line="127" Column="1" />
+      <File FileName="HelperFunctions.cs" Line="30" Column="25" />
+      <File FileName="WordCountTester.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LAB3" expanded="True">
+            <Node name="LAB3" expanded="True">
+              <Node name="HelperFunctions.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LAB3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

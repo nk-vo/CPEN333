@@ -1,0 +1,13 @@
+/Users/nickvo/Desktop/CPEN333/LAB3/obj/Debug/netcoreapp3.1/LAB3.csproj.AssemblyReference.cache
+/Users/nickvo/Desktop/CPEN333/LAB3/obj/Debug/netcoreapp3.1/LAB3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nickvo/Desktop/CPEN333/LAB3/obj/Debug/netcoreapp3.1/LAB3.AssemblyInfoInputs.cache
+/Users/nickvo/Desktop/CPEN333/LAB3/obj/Debug/netcoreapp3.1/LAB3.AssemblyInfo.cs
+/Users/nickvo/Desktop/CPEN333/LAB3/obj/Debug/netcoreapp3.1/LAB3.csproj.CoreCompileInputs.cache
+/Users/nickvo/Desktop/CPEN333/LAB3/bin/Debug/netcoreapp3.1/LAB3.deps.json
+/Users/nickvo/Desktop/CPEN333/LAB3/bin/Debug/netcoreapp3.1/LAB3.runtimeconfig.json
+/Users/nickvo/Desktop/CPEN333/LAB3/bin/Debug/netcoreapp3.1/LAB3.runtimeconfig.dev.json
+/Users/nickvo/Desktop/CPEN333/LAB3/bin/Debug/netcoreapp3.1/LAB3.dll
+/Users/nickvo/Desktop/CPEN333/LAB3/bin/Debug/netcoreapp3.1/LAB3.pdb
+/Users/nickvo/Desktop/CPEN333/LAB3/obj/Debug/netcoreapp3.1/LAB3.dll
+/Users/nickvo/Desktop/CPEN333/LAB3/obj/Debug/netcoreapp3.1/LAB3.pdb
+/Users/nickvo/Desktop/CPEN333/LAB3/obj/Debug/netcoreapp3.1/LAB3.genruntimeconfig.cache
