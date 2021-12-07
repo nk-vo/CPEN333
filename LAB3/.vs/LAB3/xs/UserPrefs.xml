@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{96297BEE-9FA7-447D-82A0-05F2391BE56A}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="HelperFunctions.cs">
     <Files>
-      <File FileName="Program.cs" Line="127" Column="1" />
-      <File FileName="HelperFunctions.cs" Line="30" Column="25" />
-      <File FileName="WordCountTester.cs" />
+      <File FileName="Program.cs" Line="45" Column="13" />
+      <File FileName="HelperFunctions.cs" Line="180" Column="97" />
+      <File FileName="WordCountTester.cs" Line="26" Column="57" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
